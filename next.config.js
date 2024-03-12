@@ -5,6 +5,8 @@ const nextConfig = {
 	images: {
 		domains: ['cloudflare-ipfs.com'],
 	},
+
+	basePath: '/test'
 }
 
 module.exports = nextConfig
